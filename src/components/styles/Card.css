@@ -1,0 +1,30 @@
+.organismo-contenedor {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.imagen-perf {
+    position: absolute;
+    display: flex;
+    width: 100px;
+    height: 335px;
+    left: 530px;
+}
+
+.badge {
+    position: absolute;
+    display: flex;
+    width: 76px;
+    height: 400px;
+    left: 870px;
+}
+
+.profile {
+    display: flex;
+    position: absolute;
+    width: 100px;
+    top: 250px;
+    left: 530px;
+}
